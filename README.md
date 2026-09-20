@@ -20,7 +20,7 @@
 - GitHub (จัดเก็บผลงาน)
 
 ## ลิงก์ระบบ
-- ลิงก์ฟอร์มจอง: (วางลิงก์ฟอร์มของคุณที่นี่)
+- ลิงก์ฟอร์มจอง:https://docs.google.com/forms/d/e/1FAIpQLScOMKD4hGaGbMQx-RVEgctrYXhI-oNXkRKVB526sQ0danZriQ/viewform
 
 ## รายการ Test Scenario
 | Scenario ID | Title | Priority |
