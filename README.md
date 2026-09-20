@@ -1,8 +1,12 @@
 # โปรเจกต์ Test Scenario ระบบจองร้านบุฟเฟต์
 
+## ลิ้งก์ระบบ
+- ลิ้งก์ฟอร์มจอง:https://docs.google.com/forms/d/e/1FAIpQLScOMKD4hGaGbMQx-RVEgctrYXhI-oNXkRKVB526sQ0danZriQ/viewform
+- ลิ้งก์ Google Sheet:https://docs.google.com/spreadsheets/d/1_mBcTzKI01DOPOWb2snd_hGGgM3fMLmlKOGPRC0Py2Y/edit?usp=sharing
+  
 ## รายละเอียดโปรเจกต์
 โปรเจกต์นี้จัดทำขึ้นเพื่อออกแบบและทดสอบระบบจองร้านบุฟเฟต์ โดยใช้ Google Form + Google Sheet
-และจัดทำชุด Test Scenario เพื่อใช้เป็นส่วนหนึ่งของ Portfolio สหกิจศึกษา
+และจัดทำชุด Test Scenario 
 
 ## วัตถุประสงค์
 - ศึกษาและฝึกเขียน Test Scenario
