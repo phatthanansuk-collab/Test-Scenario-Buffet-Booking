@@ -3,6 +3,7 @@
 ## ลิ้งก์ระบบ
 - ลิ้งก์ฟอร์มจอง:https://docs.google.com/forms/d/e/1FAIpQLScOMKD4hGaGbMQx-RVEgctrYXhI-oNXkRKVB526sQ0danZriQ/viewform
 - ลิ้งก์ Google Sheet:https://docs.google.com/spreadsheets/d/1_mBcTzKI01DOPOWb2snd_hGGgM3fMLmlKOGPRC0Py2Y/edit?usp=sharing
+- ลิ้ง Google Drive(หลักฐาน) https://drive.google.com/drive/folders/1feAHSbxyReL8elEvVauQEUBI7BPV5FjE?usp=sharing
   
 ## รายละเอียดโปรเจกต์
 โปรเจกต์นี้จัดทำขึ้นเพื่อออกแบบและทดสอบระบบจองร้านบุฟเฟต์ โดยใช้ Google Form + Google Sheet
