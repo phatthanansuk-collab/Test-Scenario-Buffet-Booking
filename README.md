@@ -23,18 +23,18 @@
 - ลิงก์ฟอร์มจอง:https://docs.google.com/forms/d/e/1FAIpQLScOMKD4hGaGbMQx-RVEgctrYXhI-oNXkRKVB526sQ0danZriQ/viewform
 
 ## รายการ Test Scenario
-| Scenario ID | Title | Priority |
-|-------------|-------------------------------------------|----------|
-| TS-001 | จองบุฟเฟต์สำเร็จด้วยข้อมูลครบถ้วน | High |
-| TS-002 | พยายามส่งฟอร์มโดยไม่กรอกชื่อลูกค้า | High |
-| TS-003 | พยายามส่งฟอร์มโดยไม่กรอกเบอร์โทร | High |
-| TS-004 | จองรอบกลางวันสำเร็จ | High |
-| TS-005 | จองรอบเย็นสำเร็จ | High |
-| TS-006 | จองจำนวน 1 คน | Medium |
-| TS-007 | จองจำนวน 6 คนขึ้นไป | Medium |
-| TS-008 | เลือกสาขาสยาม | Medium |
-| TS-009 | เลือกสาขาบางนา | Medium |
-| TS-010 | ตรวจสอบว่าข้อมูลถูกบันทึกลง Google Sheet | High |
-
-## ผู้จัดทำ
+| Scenario ID | Title | priority | Expected Result (ผลที่คาดหวัง) |
+|-------------|------------------------------------------|----------|--------------------------------------------------------------------------------------------|
+| TS-001 | จองบุฟเฟต์สำเร็จด้วยข้อมูลครบถ้วน | High | แสดงหน้า "ส่งคำตอบแล้ว" และข้อมูลปรากฏใน Google Sheet "Your response has been recorded." |
+| TS-002 | พยายามส่งฟอร์มโดยไม่กรอกชื่อลูกค้า | High | ระบบไม่ให้ส่ง และแจ้งให้กรอกชื่อลูกค้า "This is a required question" |
+| TS-003 | พยายามส่งฟอร์มโดยไม่กรอกเบอร์โทร | High | ระบบไม่ให้ส่ง และแจ้งให้กรอกเบอร์โทร "This is a required question" |
+| TS-004 | จองรอบกลางวันสำเร็จ | High | ส่งสำเร็จ และใน Sheet แสดงรอบกลางวัน "Your response has been recorded." |
+| TS-005 | จองรอบเย็นสำเร็จ | High | ส่งสำเร็จ และใน Sheet แสดงรอบเย็น "Your response has been recorded." |
+| TS-006 | จองจำนวน 1 คน | Medium | ส่งสำเร็จ และบันทึกจำนวน 1 คน "Your response has been recorded." |
+| TS-007 | จองจำนวน 6 คนขึ้นไป | Medium | ส่งสำเร็จ และบันทึกจำนวน 6 คนขึ้นไป "Your response has been recorded." |
+| TS-008 | เลือกสาขาสยาม | Medium | ส่งสำเร็จ และใน Sheet แสดงสาขาสยาม "Your response has been recorded." |
+| TS-009 | เลือกสาขาบางนา | Medium | ส่งสำเร็จ และใน Sheet แสดงสาขาบางนา "Your response has been recorded." |
+| TS-010 | ตรวจสอบว่าข้อมูลถูกบันทึกลง Google Sheet | High | ข้อมูลที่กรอกในฟอร์มปรากฏครบถ้วนใน Sheet |
+																					
+ผู้จัดทำ																					
 นางสาว พัทธนันท์ สุขมูล
